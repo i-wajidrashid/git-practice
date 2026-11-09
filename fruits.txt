@@ -3,3 +3,4 @@ Banana
 Cranberry and Citrus
 Date
 Elderberry
+Fig
